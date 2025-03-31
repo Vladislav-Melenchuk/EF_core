@@ -20,7 +20,7 @@ class Program
             var userExists = context.Users.Any(u => u.Id == userId);
             if (!userExists)
             {
-                Console.WriteLine($"❌ Ошибка: Пользователь с ID {userId} не найден.");
+                Console.WriteLine($"Ошибка: Пользователь с ID {userId} не найден.");
                 return;
             }
 
