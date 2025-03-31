@@ -1,0 +1,3 @@
+﻿{
+  "ConnectionString": "Server=localhost; Database=UserDBv2; Integrated Security=True; TrustServerCertificate=True;"
+}
