@@ -15,3 +15,7 @@ https://youtu.be/au986d6uoz4
 ## Main
 
 ![{5C0D3F51-4BF4-4E6F-8BFE-883BC3DF34A4}](https://github.com/user-attachments/assets/a92150c8-7407-4fba-a808-1c586f0bb614)
+
+## SSMS
+
+![{482C6D66-EA75-4A12-8EA3-6186A0A1E728}](https://github.com/user-attachments/assets/d750180c-6256-4f58-94e6-523710c221f2)
